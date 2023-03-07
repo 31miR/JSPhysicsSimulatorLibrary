@@ -109,24 +109,7 @@ body{
 
 
 
-.callToAction h3 {
-  font-size: 36px;
-  font-weight: bold;
-  color: #F9FAF8;
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
 
-.callToAction p {
-  font-size: 18px;
-  color: #E5E7EB;
-}
-
-.callToAction .blueButton {
-  border-color: #F9FAF8;
-  border-style: solid;
-  border-width: 3px;
-}
 
 .footer {
   background-color: #1F2937;
