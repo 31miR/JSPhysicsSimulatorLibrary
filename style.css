@@ -11,6 +11,7 @@ body{
   align-items: center;
   background-color: #1F2937;
   flex-wrap: wrap;
+  background-color: #f71735;
 }
 
 .headerLinks{
